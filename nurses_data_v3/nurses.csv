@@ -1,0 +1,151 @@
+nurse_id,first_name,last_name,gender,age,race_ethnicity,education_nurse,years_licensed,license_type,primary_setting,specialty,multistate_license,full_time,hire_date
+N0001,Alex,Martinez,Female,57,Other,Baccalaureate,37,RN,Hospital,Geriatrics,False,False,2022-05-05
+N0002,Alex,Chen,Male,29,White,Associate,8,RN,Clinic,Geriatrics,False,True,2010-07-01
+N0003,Jamie,Martinez,Female,44,White,Baccalaureate,28,RN,Nursing home,Geriatrics,False,False,2008-07-23
+N0004,Taylor,Lee,Female,55,White,Baccalaureate,31,LPN,Hospital,Med-surg,False,False,2014-03-03
+N0005,Sam,Brown,Female,55,Black,Baccalaureate,9,RN,Hospital,Cardiac,False,True,2013-06-29
+N0006,Casey,Wong,Female,56,White,Baccalaureate,29,RN,Clinic,Pediatrics,False,True,2013-01-02
+N0007,Jordan,Nguyen,Female,38,White,Associate,14,RN,Hospital,Pediatrics,False,True,2011-02-17
+N0008,Chris,Martinez,Female,59,Hispanic,Baccalaureate,40,RN,Hospital,Psychiatry,False,True,2010-04-19
+N0009,Morgan,Chen,Female,52,Asian,Baccalaureate,41,RN,Hospital,Psychiatry,False,True,2023-03-06
+N0010,Chris,Wong,Female,44,Hispanic,Baccalaureate,22,RN,Hospital,Other,True,True,2020-03-25
+N0011,Jess,Patel,Female,43,White,Baccalaureate,11,RN,Ambulatory,Psychiatry,True,False,2009-12-13
+N0012,Alex,Patel,Male,52,White,Baccalaureate,23,RN,Home health,Geriatrics,False,False,2021-03-30
+N0013,Jordan,Smith,Female,57,White,Doctorate,1,RN,Hospital,Pediatrics,False,False,2017-06-18
+N0014,Jess,Nguyen,Female,32,Hispanic,Baccalaureate,37,RN,Hospital,Cardiac,False,True,2008-09-17
+N0015,Sam,Lee,Female,33,Asian,Associate,21,RN,Ambulatory,Geriatrics,False,True,2008-09-01
+N0016,Morgan,Chen,Female,43,White,Associate,26,APRN,Clinic,Med-surg,False,True,2010-02-06
+N0017,Taylor,Brown,Female,45,White,Associate,36,RN,Nursing home,Psychiatry,False,True,2012-11-26
+N0018,Jordan,Brown,Female,55,White,Baccalaureate,23,RN,Clinic,Geriatrics,True,False,2013-03-20
+N0019,Jordan,Chen,Female,61,Black,Associate,1,APRN,Ambulatory,Geriatrics,False,False,2019-05-02
+N0020,Alex,Davis,Female,50,Other,Associate,40,RN,Home health,Med-surg,False,True,2021-07-02
+N0021,Drew,Lee,Female,37,White,Baccalaureate,15,APRN,Hospital,Emergency,False,False,2008-08-05
+N0022,Jordan,Wong,Female,40,White,Associate,21,RN,Hospital,Pediatrics,False,False,2020-08-02
+N0023,Jamie,Martinez,Female,45,White,Masters,9,RN,Home health,Cardiac,True,True,2012-06-16
+N0024,Morgan,Davis,Female,42,Hispanic,Associate,9,RN,Hospital,Other,True,False,2022-07-29
+N0025,Morgan,Martinez,Female,33,Asian,Baccalaureate,10,RN,Home health,Emergency,True,True,2023-09-24
+N0026,Jamie,Martinez,Female,39,Asian,Baccalaureate,26,RN,Hospital,Psychiatry,False,True,2020-03-22
+N0027,Casey,Davis,Female,56,White,Doctorate,41,RN,Hospital,Geriatrics,True,True,2017-05-29
+N0028,Jamie,Smith,Female,32,White,Associate,35,RN,Hospital,Med-surg,False,True,2012-12-10
+N0029,Jamie,Patel,Female,61,White,Baccalaureate,25,RN,Hospital,Med-surg,False,True,2018-01-27
+N0030,Morgan,Martinez,Female,39,White,Masters,26,RN,Ambulatory,Pediatrics,True,True,2021-03-20
+N0031,Chris,Davis,Female,32,Asian,Masters,11,RN,Home health,Emergency,False,True,2014-03-28
+N0032,Morgan,Davis,Female,29,Black,Baccalaureate,38,RN,Home health,Other,True,True,2008-02-23
+N0033,Drew,Garcia,Female,27,Multiracial,Baccalaureate,2,RN,Nursing home,Pediatrics,False,True,2011-07-31
+N0034,Alex,Smith,Male,48,Multiracial,Associate,7,RN,Hospital,Geriatrics,True,True,2023-08-29
+N0035,Jess,Nguyen,Male,34,White,Baccalaureate,18,RN,Hospital,Pediatrics,False,True,2017-06-24
+N0036,Chris,Garcia,Female,51,Black,Masters,27,APRN,Hospital,Cardiac,True,True,2015-08-19
+N0037,Taylor,Garcia,Female,39,Hispanic,Baccalaureate,34,RN,Hospital,Med-surg,False,True,2014-03-26
+N0038,Jess,Chen,Female,36,Asian,Baccalaureate,27,RN,Hospital,Med-surg,False,True,2011-06-27
+N0039,Alex,Patel,Female,25,White,Baccalaureate,17,RN,Hospital,Psychiatry,False,True,2012-10-29
+N0040,Drew,Davis,Female,55,White,Baccalaureate,24,RN,Hospital,Psychiatry,False,True,2015-07-20
+N0041,Drew,Patel,Female,32,White,Associate,25,LPN,Ambulatory,Other,False,False,2010-04-17
+N0042,Taylor,Lee,Female,45,Hispanic,Baccalaureate,7,RN,Clinic,Geriatrics,False,True,2010-01-29
+N0043,Chris,Chen,Female,41,White,Baccalaureate,6,RN,Hospital,Cardiac,False,True,2016-07-09
+N0044,Casey,Nguyen,Male,56,White,Baccalaureate,24,RN,Nursing home,Emergency,False,False,2010-03-03
+N0045,Jamie,Patel,Female,43,White,Baccalaureate,33,RN,Home health,Pediatrics,False,False,2016-01-19
+N0046,Chris,Brown,Female,36,White,Associate,29,APRN,Hospital,Other,False,False,2015-09-18
+N0047,Casey,Martinez,Female,59,White,Baccalaureate,22,RN,Clinic,Geriatrics,True,False,2021-07-16
+N0048,Drew,Lee,Female,62,White,Baccalaureate,26,APRN,Clinic,Psychiatry,False,True,2013-12-06
+N0049,Morgan,Smith,Female,59,White,Baccalaureate,28,RN,Hospital,Pediatrics,False,True,2008-12-21
+N0050,Alex,Nguyen,Female,34,White,Associate,21,RN,Hospital,Psychiatry,False,True,2018-04-21
+N0051,Taylor,Lee,Male,51,Black,Baccalaureate,7,LPN,Hospital,Pediatrics,False,True,2020-01-10
+N0052,Alex,Martinez,Female,25,White,Baccalaureate,17,RN,Hospital,Emergency,False,True,2010-10-19
+N0053,Sam,Chen,Male,55,Asian,Associate,20,LPN,Hospital,Geriatrics,False,True,2016-06-27
+N0054,Sam,Martinez,Male,43,White,Baccalaureate,41,RN,Clinic,Pediatrics,True,True,2009-10-07
+N0055,Chris,Garcia,Female,49,White,Associate,20,RN,Hospital,Cardiac,False,False,2020-05-19
+N0056,Drew,Martinez,Male,63,Asian,Associate,22,RN,Hospital,Other,False,True,2014-07-29
+N0057,Drew,Garcia,Female,31,White,Doctorate,28,RN,Ambulatory,Med-surg,False,True,2022-02-05
+N0058,Jamie,Chen,Female,38,White,Baccalaureate,40,RN,Home health,Cardiac,False,False,2021-11-14
+N0059,Jamie,Wong,Female,32,White,Baccalaureate,7,APRN,Hospital,Cardiac,True,True,2016-02-10
+N0060,Jamie,Garcia,Female,29,Black,Baccalaureate,1,APRN,Hospital,Other,False,False,2020-12-12
+N0061,Morgan,Smith,Female,30,White,Baccalaureate,32,LPN,Hospital,Med-surg,False,True,2012-04-24
+N0062,Jess,Martinez,Female,64,White,Baccalaureate,13,RN,Nursing home,Cardiac,False,False,2023-10-20
+N0063,Jordan,Martinez,Female,37,White,Baccalaureate,30,RN,Hospital,Pediatrics,False,True,2009-07-23
+N0064,Jess,Smith,Female,58,White,Baccalaureate,23,RN,Hospital,Pediatrics,False,True,2009-01-10
+N0065,Alex,Brown,Female,27,White,Baccalaureate,19,RN,Ambulatory,Pediatrics,False,True,2022-10-31
+N0066,Jess,Davis,Female,33,White,Baccalaureate,32,RN,Hospital,Med-surg,False,True,2013-02-09
+N0067,Morgan,Wong,Female,60,White,Masters,30,RN,Clinic,Cardiac,True,True,2014-06-28
+N0068,Alex,Nguyen,Female,62,White,Baccalaureate,29,RN,Ambulatory,Med-surg,False,True,2009-10-15
+N0069,Jess,Garcia,Female,29,White,Masters,29,RN,Hospital,Pediatrics,True,True,2013-03-22
+N0070,Morgan,Smith,Male,47,Asian,Associate,30,RN,Clinic,Other,False,True,2010-04-07
+N0071,Jordan,Chen,Female,22,White,Baccalaureate,16,RN,Hospital,Cardiac,False,True,2016-07-10
+N0072,Jess,Garcia,Female,25,White,Masters,40,RN,Clinic,Cardiac,False,False,2014-03-27
+N0073,Morgan,Davis,Female,49,Black,Associate,19,RN,Hospital,Psychiatry,False,True,2018-03-03
+N0074,Jamie,Chen,Female,57,White,Associate,18,LPN,Nursing home,Psychiatry,True,True,2022-04-04
+N0075,Drew,Lee,Female,58,White,Baccalaureate,1,RN,Hospital,Emergency,False,True,2016-03-07
+N0076,Jamie,Martinez,Female,39,Asian,Baccalaureate,14,RN,Clinic,Geriatrics,True,True,2011-08-25
+N0077,Drew,Lee,Female,28,Hispanic,Masters,2,RN,Home health,Psychiatry,False,True,2016-04-20
+N0078,Taylor,Garcia,Female,21,White,Associate,28,APRN,Hospital,Med-surg,False,False,2015-12-20
+N0079,Taylor,Davis,Female,42,Hispanic,Baccalaureate,30,LPN,Clinic,Psychiatry,True,False,2012-09-12
+N0080,Taylor,Wong,Female,37,White,Associate,38,RN,Hospital,Emergency,False,True,2023-01-12
+N0081,Jordan,Garcia,Female,27,White,Associate,4,RN,Hospital,Cardiac,False,True,2013-12-27
+N0082,Jamie,Smith,Female,45,White,Associate,1,RN,Hospital,Emergency,False,False,2023-09-28
+N0083,Drew,Patel,Female,24,Other,Baccalaureate,8,RN,Hospital,Cardiac,True,False,2023-05-01
+N0084,Morgan,Garcia,Female,56,White,Baccalaureate,29,LPN,Hospital,Other,True,True,2022-07-14
+N0085,Alex,Martinez,Female,26,White,Baccalaureate,39,RN,Ambulatory,Other,False,True,2009-08-07
+N0086,Morgan,Martinez,Female,51,White,Baccalaureate,3,RN,Hospital,Cardiac,False,False,2021-08-30
+N0087,Alex,Garcia,Female,39,White,Masters,32,RN,Nursing home,Geriatrics,True,True,2022-03-29
+N0088,Sam,Chen,Female,64,White,Baccalaureate,10,RN,Hospital,Psychiatry,False,False,2011-11-02
+N0089,Morgan,Patel,Male,59,White,Baccalaureate,10,RN,Clinic,Med-surg,False,True,2019-12-24
+N0090,Jess,Smith,Female,47,White,Baccalaureate,19,LPN,Ambulatory,Med-surg,True,True,2013-06-28
+N0091,Jess,Garcia,Female,30,White,Baccalaureate,34,APRN,Hospital,Pediatrics,False,False,2011-08-31
+N0092,Chris,Chen,Female,46,White,Baccalaureate,33,RN,Clinic,Cardiac,False,True,2018-05-14
+N0093,Jamie,Martinez,Female,39,White,Baccalaureate,23,RN,Hospital,Med-surg,False,True,2016-07-05
+N0094,Alex,Martinez,Female,59,White,Baccalaureate,28,RN,Home health,Geriatrics,True,True,2014-01-20
+N0095,Alex,Davis,Female,23,White,Baccalaureate,32,RN,Hospital,Cardiac,False,True,2022-05-09
+N0096,Jamie,Garcia,Female,33,Asian,Associate,7,RN,Clinic,Geriatrics,False,True,2023-06-08
+N0097,Jordan,Patel,Female,48,White,Masters,29,RN,Hospital,Med-surg,False,True,2020-06-28
+N0098,Chris,Brown,Female,40,White,Baccalaureate,8,LPN,Hospital,Med-surg,False,True,2012-12-04
+N0099,Jordan,Patel,Female,48,White,Baccalaureate,1,RN,Home health,Pediatrics,False,False,2023-05-10
+N0100,Jordan,Martinez,Female,28,White,Masters,3,RN,Hospital,Med-surg,False,True,2015-04-10
+N0101,Jordan,Martinez,Female,61,White,Baccalaureate,24,RN,Hospital,Cardiac,False,True,2009-04-03
+N0102,Jamie,Lee,Female,59,White,Associate,23,RN,Hospital,Other,False,True,2013-02-19
+N0103,Jordan,Martinez,Female,21,White,Masters,8,RN,Hospital,Cardiac,False,False,2008-09-19
+N0104,Jess,Smith,Female,23,White,Baccalaureate,37,RN,Hospital,Cardiac,False,False,2015-01-28
+N0105,Taylor,Nguyen,Male,33,White,Baccalaureate,3,RN,Hospital,Pediatrics,False,True,2016-12-30
+N0106,Sam,Garcia,Female,48,White,Associate,33,RN,Hospital,Pediatrics,True,True,2014-01-02
+N0107,Alex,Patel,Female,45,White,Baccalaureate,28,RN,Hospital,Med-surg,False,True,2009-06-26
+N0108,Alex,Nguyen,Female,53,White,Baccalaureate,8,RN,Home health,Emergency,True,False,2012-09-24
+N0109,Sam,Chen,Female,58,White,Baccalaureate,34,RN,Hospital,Emergency,True,False,2020-09-20
+N0110,Jamie,Brown,Female,26,White,Masters,35,RN,Hospital,Pediatrics,True,True,2015-01-21
+N0111,Morgan,Smith,Female,64,White,Baccalaureate,32,RN,Hospital,Med-surg,False,False,2012-10-07
+N0112,Jamie,Patel,Female,52,White,Associate,24,RN,Hospital,Emergency,True,False,2022-09-13
+N0113,Alex,Nguyen,Male,41,Black,Baccalaureate,14,RN,Clinic,Med-surg,True,True,2019-03-13
+N0114,Alex,Brown,Female,36,White,Baccalaureate,32,RN,Hospital,Med-surg,True,True,2016-11-15
+N0115,Sam,Lee,Female,41,White,Baccalaureate,16,RN,Hospital,Med-surg,True,True,2022-06-02
+N0116,Jordan,Smith,Female,31,Asian,Diploma,4,RN,Home health,Psychiatry,False,True,2018-04-16
+N0117,Jamie,Smith,Female,57,Hispanic,Baccalaureate,37,APRN,Home health,Cardiac,False,False,2011-03-16
+N0118,Drew,Lee,Female,56,White,Baccalaureate,21,RN,Hospital,Med-surg,False,True,2013-12-09
+N0119,Sam,Garcia,Male,55,White,Masters,14,RN,Home health,Psychiatry,False,True,2011-02-17
+N0120,Jess,Lee,Female,39,Black,Baccalaureate,31,RN,Ambulatory,Pediatrics,False,True,2013-07-13
+N0121,Alex,Smith,Female,40,Black,Baccalaureate,18,RN,Hospital,Emergency,True,True,2020-08-03
+N0122,Sam,Smith,Male,38,White,Associate,7,APRN,Home health,Cardiac,True,True,2020-02-02
+N0123,Jamie,Nguyen,Female,61,White,Masters,10,RN,Nursing home,Other,False,True,2013-11-22
+N0124,Alex,Martinez,Female,34,White,Associate,7,RN,Hospital,Emergency,False,True,2021-02-09
+N0125,Morgan,Brown,Female,35,White,Baccalaureate,33,RN,Hospital,Cardiac,True,True,2017-08-10
+N0126,Sam,Lee,Female,51,White,Baccalaureate,23,RN,Hospital,Other,False,True,2021-02-01
+N0127,Chris,Brown,Female,21,White,Associate,21,RN,Clinic,Emergency,True,True,2016-12-15
+N0128,Alex,Lee,Female,23,White,Associate,19,APRN,Ambulatory,Cardiac,False,True,2016-02-13
+N0129,Jamie,Chen,Female,36,Black,Baccalaureate,19,RN,Nursing home,Emergency,True,True,2012-12-01
+N0130,Taylor,Smith,Female,43,White,Baccalaureate,36,RN,Hospital,Emergency,True,True,2011-02-07
+N0131,Drew,Martinez,Female,31,White,Baccalaureate,29,LPN,Nursing home,Other,True,True,2019-06-06
+N0132,Casey,Nguyen,Female,32,White,Baccalaureate,18,RN,Hospital,Emergency,False,True,2019-01-25
+N0133,Jordan,Martinez,Female,30,Asian,Baccalaureate,2,RN,Hospital,Emergency,False,True,2010-01-14
+N0134,Casey,Martinez,Female,52,White,Baccalaureate,1,RN,Hospital,Other,True,False,2009-01-20
+N0135,Jamie,Martinez,Male,36,White,Baccalaureate,5,LPN,Home health,Pediatrics,True,True,2010-06-17
+N0136,Jess,Brown,Female,28,White,Associate,20,RN,Hospital,Med-surg,False,True,2011-06-06
+N0137,Jess,Lee,Female,58,White,Masters,11,RN,Home health,Geriatrics,True,False,2022-01-27
+N0138,Taylor,Wong,Female,32,White,Baccalaureate,2,RN,Hospital,Psychiatry,True,True,2011-08-03
+N0139,Jordan,Chen,Female,44,White,Baccalaureate,3,RN,Hospital,Geriatrics,False,True,2023-04-06
+N0140,Chris,Patel,Male,48,White,Baccalaureate,23,RN,Hospital,Geriatrics,True,False,2017-06-20
+N0141,Taylor,Martinez,Male,28,White,Masters,12,RN,Hospital,Cardiac,False,False,2021-05-17
+N0142,Casey,Garcia,Female,48,White,Associate,20,RN,Ambulatory,Med-surg,False,True,2009-06-04
+N0143,Taylor,Brown,Female,56,White,Baccalaureate,5,RN,Hospital,Cardiac,False,True,2016-08-18
+N0144,Casey,Nguyen,Female,46,White,Baccalaureate,37,RN,Clinic,Med-surg,True,True,2016-07-23
+N0145,Alex,Patel,Female,28,White,Baccalaureate,38,RN,Hospital,Other,True,True,2021-05-13
+N0146,Jess,Wong,Female,48,White,Diploma,30,RN,Home health,Other,False,True,2018-07-01
+N0147,Alex,Garcia,Female,48,Asian,Masters,9,RN,Hospital,Med-surg,False,True,2019-11-13
+N0148,Drew,Wong,Female,57,White,Masters,34,RN,Home health,Emergency,False,True,2013-08-21
+N0149,Jordan,Patel,Female,61,White,Baccalaureate,35,RN,Home health,Pediatrics,True,True,2020-05-29
+N0150,Chris,Martinez,Female,56,Black,Baccalaureate,22,RN,Hospital,Emergency,False,False,2008-04-04

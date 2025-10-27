@@ -17,7 +17,7 @@ from faker import Faker
 #                                       CONFIGURATION
 # =============================================================================
 
-OUTPUT_DIR = "nurse_kg_data"
+OUTPUT_DIR = "nurse_kg_data_v1"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 NUM_NURSES = 500

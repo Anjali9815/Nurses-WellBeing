@@ -1,0 +1,151 @@
+nurse_id,primary_setting,specialty,education_nurse,full_time,annual_salary,overtime_rate,bonus
+N0001,Hospital,Geriatrics,Baccalaureate,False,42380,1.437947967690807,0
+N0002,Clinic,Geriatrics,Associate,True,92355,1.7389683989445528,0
+N0003,Nursing home,Geriatrics,Baccalaureate,False,61447,1.4488292328936376,0
+N0004,Hospital,Med-surg,Baccalaureate,False,61601,1.416588506826268,0
+N0005,Hospital,Cardiac,Baccalaureate,True,79603,1.1825693523698164,0
+N0006,Clinic,Pediatrics,Baccalaureate,True,66259,1.7216493556365948,0
+N0007,Hospital,Pediatrics,Associate,True,122786,1.691824923490695,500
+N0008,Hospital,Psychiatry,Baccalaureate,True,91132,1.1897066394910774,0
+N0009,Hospital,Psychiatry,Baccalaureate,True,81652,1.238163529824641,500
+N0010,Hospital,Other,Baccalaureate,True,86287,1.3336652734284211,0
+N0011,Ambulatory,Psychiatry,Baccalaureate,False,55896,1.2437844571937327,0
+N0012,Home health,Geriatrics,Baccalaureate,False,35287,1.480743640851627,0
+N0013,Hospital,Pediatrics,Doctorate,False,55341,1.2141234849598408,900
+N0014,Hospital,Cardiac,Baccalaureate,True,87749,1.711836184345433,500
+N0015,Ambulatory,Geriatrics,Associate,True,107301,1.700950349531058,0
+N0016,Clinic,Med-surg,Associate,True,81311,1.4336581988483965,0
+N0017,Nursing home,Psychiatry,Associate,True,87849,1.4866477450924762,500
+N0018,Clinic,Geriatrics,Baccalaureate,False,49395,1.2826222917174337,0
+N0019,Ambulatory,Geriatrics,Associate,False,61594,1.5883144105509874,0
+N0020,Home health,Med-surg,Associate,True,86171,1.52875618205167,500
+N0021,Hospital,Emergency,Baccalaureate,False,49584,1.7424919059779773,1800
+N0022,Hospital,Pediatrics,Associate,False,35453,1.1252973448050645,900
+N0023,Home health,Cardiac,Masters,True,110197,1.444636721422912,0
+N0024,Hospital,Other,Associate,False,61674,1.5282478022702704,0
+N0025,Home health,Emergency,Baccalaureate,True,120434,1.506815188802561,0
+N0026,Hospital,Psychiatry,Baccalaureate,True,98519,1.6727998097172803,0
+N0027,Hospital,Geriatrics,Doctorate,True,100683,1.4763245948105441,500
+N0028,Hospital,Med-surg,Associate,True,55107,1.1191948328888053,900
+N0029,Hospital,Med-surg,Baccalaureate,True,86166,1.7941153061974964,900
+N0030,Ambulatory,Pediatrics,Masters,True,90940,1.654282212893642,0
+N0031,Home health,Emergency,Masters,True,107059,1.1598686937341809,500
+N0032,Home health,Other,Baccalaureate,True,67237,1.765567989221904,0
+N0033,Nursing home,Pediatrics,Baccalaureate,True,103673,1.5482069611935236,500
+N0034,Hospital,Geriatrics,Associate,True,102832,1.3743672472936552,0
+N0035,Hospital,Pediatrics,Baccalaureate,True,84280,1.2455012444711697,0
+N0036,Hospital,Cardiac,Masters,True,96842,1.6851582967052294,500
+N0037,Hospital,Med-surg,Baccalaureate,True,84996,1.1704808009633771,500
+N0038,Hospital,Med-surg,Baccalaureate,True,94520,1.5811004383083538,500
+N0039,Hospital,Psychiatry,Baccalaureate,True,89115,1.493231720823695,500
+N0040,Hospital,Psychiatry,Baccalaureate,True,99882,1.7024827889068381,0
+N0041,Ambulatory,Other,Associate,False,43359,1.36709633713204,0
+N0042,Clinic,Geriatrics,Baccalaureate,True,90156,1.1963355099766004,0
+N0043,Hospital,Cardiac,Baccalaureate,True,92571,1.2136445991646607,0
+N0044,Nursing home,Emergency,Baccalaureate,False,51051,1.5321463346463382,500
+N0045,Home health,Pediatrics,Baccalaureate,False,46471,1.3983472022298127,0
+N0046,Hospital,Other,Associate,False,57058,1.3741101224865144,0
+N0047,Clinic,Geriatrics,Baccalaureate,False,49383,1.6725607288547544,0
+N0048,Clinic,Psychiatry,Baccalaureate,True,93119,1.2143519267803102,0
+N0049,Hospital,Pediatrics,Baccalaureate,True,93731,1.6595685722799332,0
+N0050,Hospital,Psychiatry,Associate,True,89242,1.562453463446563,500
+N0051,Hospital,Pediatrics,Baccalaureate,True,73106,1.7583224753973266,0
+N0052,Hospital,Emergency,Baccalaureate,True,89568,1.5389594058775549,0
+N0053,Hospital,Geriatrics,Associate,True,56745,1.336561906141641,0
+N0054,Clinic,Pediatrics,Baccalaureate,True,85172,1.2234170569896334,500
+N0055,Hospital,Cardiac,Associate,False,70349,1.1123171584587512,0
+N0056,Hospital,Other,Associate,True,90492,1.7456610504421994,1800
+N0057,Ambulatory,Med-surg,Doctorate,True,69569,1.4328021894118708,500
+N0058,Home health,Cardiac,Baccalaureate,False,53015,1.103745383417786,500
+N0059,Hospital,Cardiac,Baccalaureate,True,75243,1.7439632698889247,0
+N0060,Hospital,Other,Baccalaureate,False,61300,1.794549258348273,500
+N0061,Hospital,Med-surg,Baccalaureate,True,96817,1.7723662419313932,0
+N0062,Nursing home,Cardiac,Baccalaureate,False,54790,1.1580296469814277,0
+N0063,Hospital,Pediatrics,Baccalaureate,True,75473,1.2860122287620932,0
+N0064,Hospital,Pediatrics,Baccalaureate,True,107630,1.1995951786366936,1800
+N0065,Ambulatory,Pediatrics,Baccalaureate,True,116022,1.182485505132695,0
+N0066,Hospital,Med-surg,Baccalaureate,True,57512,1.5943887742440233,0
+N0067,Clinic,Cardiac,Masters,True,71849,1.311515020435783,0
+N0068,Ambulatory,Med-surg,Baccalaureate,True,56391,1.2361353675193743,500
+N0069,Hospital,Pediatrics,Masters,True,71889,1.6383397828844843,500
+N0070,Clinic,Other,Associate,True,74313,1.6701727313368129,0
+N0071,Hospital,Cardiac,Baccalaureate,True,70037,1.70546165081708,500
+N0072,Clinic,Cardiac,Masters,False,41417,1.648954465646089,0
+N0073,Hospital,Psychiatry,Associate,True,85222,1.5355903295715272,500
+N0074,Nursing home,Psychiatry,Associate,True,90221,1.118277643319347,0
+N0075,Hospital,Emergency,Baccalaureate,True,71312,1.314498946034543,0
+N0076,Clinic,Geriatrics,Baccalaureate,True,84635,1.6359932659757783,0
+N0077,Home health,Psychiatry,Masters,True,114645,1.2724657571603488,0
+N0078,Hospital,Med-surg,Associate,False,66950,1.749176280052694,0
+N0079,Clinic,Psychiatry,Baccalaureate,False,53045,1.7321979545706025,0
+N0080,Hospital,Emergency,Associate,True,83882,1.5594744394753883,500
+N0081,Hospital,Cardiac,Associate,True,98018,1.7145571714092793,900
+N0082,Hospital,Emergency,Associate,False,53631,1.4728852345493724,0
+N0083,Hospital,Cardiac,Baccalaureate,False,40952,1.1642233292815662,0
+N0084,Hospital,Other,Baccalaureate,True,56380,1.7242373918317457,0
+N0085,Ambulatory,Other,Baccalaureate,True,98567,1.1855700437018257,0
+N0086,Hospital,Cardiac,Baccalaureate,False,54033,1.6709075476924318,0
+N0087,Nursing home,Geriatrics,Masters,True,107269,1.74348033303955,0
+N0088,Hospital,Psychiatry,Baccalaureate,False,56734,1.4322737657366331,0
+N0089,Clinic,Med-surg,Baccalaureate,True,75845,1.3285985656841446,0
+N0090,Ambulatory,Med-surg,Baccalaureate,True,131973,1.606676669022266,900
+N0091,Hospital,Pediatrics,Baccalaureate,False,64659,1.2809648248507328,0
+N0092,Clinic,Cardiac,Baccalaureate,True,97070,1.1429773011448896,500
+N0093,Hospital,Med-surg,Baccalaureate,True,91507,1.1074819544304524,500
+N0094,Home health,Geriatrics,Baccalaureate,True,84402,1.1983096476512005,500
+N0095,Hospital,Cardiac,Baccalaureate,True,79740,1.5429204492279243,0
+N0096,Clinic,Geriatrics,Associate,True,78854,1.501422263746893,500
+N0097,Hospital,Med-surg,Masters,True,58882,1.5118739473331704,900
+N0098,Hospital,Med-surg,Baccalaureate,True,83448,1.2404968704042976,0
+N0099,Home health,Pediatrics,Baccalaureate,False,51418,1.504571220282149,0
+N0100,Hospital,Med-surg,Masters,True,96927,1.498733402556813,0
+N0101,Hospital,Cardiac,Baccalaureate,True,83727,1.7787061559665265,0
+N0102,Hospital,Other,Associate,True,80477,1.3602515560818742,900
+N0103,Hospital,Cardiac,Masters,False,48302,1.5508694054763466,1800
+N0104,Hospital,Cardiac,Baccalaureate,False,40505,1.6759962617605069,0
+N0105,Hospital,Pediatrics,Baccalaureate,True,93342,1.387803104644775,0
+N0106,Hospital,Pediatrics,Associate,True,98197,1.2834591581389507,0
+N0107,Hospital,Med-surg,Baccalaureate,True,92764,1.68021418645681,0
+N0108,Home health,Emergency,Baccalaureate,False,60355,1.357338438480996,0
+N0109,Hospital,Emergency,Baccalaureate,False,59549,1.7244545303351364,0
+N0110,Hospital,Pediatrics,Masters,True,97570,1.7542405240121954,0
+N0111,Hospital,Med-surg,Baccalaureate,False,57325,1.2681242256582062,500
+N0112,Hospital,Emergency,Associate,False,43340,1.6394069233878918,900
+N0113,Clinic,Med-surg,Baccalaureate,True,107449,1.2823813504618278,0
+N0114,Hospital,Med-surg,Baccalaureate,True,90179,1.3554213791391936,0
+N0115,Hospital,Med-surg,Baccalaureate,True,114743,1.7196854084953779,0
+N0116,Home health,Psychiatry,Diploma,True,107985,1.309324784885766,0
+N0117,Home health,Cardiac,Baccalaureate,False,36476,1.2171721193916154,500
+N0118,Hospital,Med-surg,Baccalaureate,True,97387,1.2522482394665706,0
+N0119,Home health,Psychiatry,Masters,True,94438,1.4832339535217711,0
+N0120,Ambulatory,Pediatrics,Baccalaureate,True,89233,1.498020711866151,900
+N0121,Hospital,Emergency,Baccalaureate,True,104602,1.770959113357241,1800
+N0122,Home health,Cardiac,Associate,True,94301,1.1923445573855957,0
+N0123,Nursing home,Other,Masters,True,42126,1.7797363204032695,0
+N0124,Hospital,Emergency,Associate,True,99321,1.7614317913188005,0
+N0125,Hospital,Cardiac,Baccalaureate,True,87557,1.4876115926771158,0
+N0126,Hospital,Other,Baccalaureate,True,108543,1.3721860426472243,0
+N0127,Clinic,Emergency,Associate,True,79711,1.262542062097803,0
+N0128,Ambulatory,Cardiac,Associate,True,91282,1.6703628711730627,900
+N0129,Nursing home,Emergency,Baccalaureate,True,113485,1.7096980279964633,0
+N0130,Hospital,Emergency,Baccalaureate,True,100430,1.7665567630018788,500
+N0131,Nursing home,Other,Baccalaureate,True,111825,1.7364687838120536,0
+N0132,Hospital,Emergency,Baccalaureate,True,80245,1.7110528496367092,0
+N0133,Hospital,Emergency,Baccalaureate,True,80814,1.6818847301778819,0
+N0134,Hospital,Other,Baccalaureate,False,62802,1.597038894519757,0
+N0135,Home health,Pediatrics,Baccalaureate,True,66961,1.2725739971863395,0
+N0136,Hospital,Med-surg,Associate,True,95786,1.2501186255129935,0
+N0137,Home health,Geriatrics,Masters,False,50040,1.1857395762419478,0
+N0138,Hospital,Psychiatry,Baccalaureate,True,90390,1.214604929936384,500
+N0139,Hospital,Geriatrics,Baccalaureate,True,94697,1.4292606435985866,0
+N0140,Hospital,Geriatrics,Baccalaureate,False,54176,1.3504852436059391,500
+N0141,Hospital,Cardiac,Masters,False,64540,1.59046852670919,0
+N0142,Ambulatory,Med-surg,Associate,True,79583,1.2277638454823523,0
+N0143,Hospital,Cardiac,Baccalaureate,True,95751,1.476963636365603,0
+N0144,Clinic,Med-surg,Baccalaureate,True,64684,1.6121887502920622,0
+N0145,Hospital,Other,Baccalaureate,True,92721,1.3060271163145896,0
+N0146,Home health,Other,Diploma,True,84660,1.470815246582656,1800
+N0147,Hospital,Med-surg,Masters,True,90491,1.1468897314766036,900
+N0148,Home health,Emergency,Masters,True,85710,1.7735983364644377,0
+N0149,Home health,Pediatrics,Baccalaureate,True,97898,1.2502329711714695,0
+N0150,Hospital,Emergency,Baccalaureate,False,56515,1.6936186291874176,1800
